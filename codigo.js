@@ -20,5 +20,5 @@ function Auto(marca, modelo, año)
     this.modelo=modelo;
     this.año=año;
 }
-var miCarro=new Auto("Renautl", "Sandero", "2012");
+var miCarro=new Auto("renaaal", "Sandero", "2012");
 console.log(miCarro);
